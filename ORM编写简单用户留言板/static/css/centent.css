@@ -1,0 +1,51 @@
+.header-outs{   background-image: url(../img/b1.jpg);
+background-repeat: no-repeat;
+ 	min-height: 800px;
+    min-width: 1780px;
+    background-position: center;
+    text-align: -moz-center;
+    z-index: -1;
+}
+.p-font p1{
+	font-family: "微软雅黑";
+	font-size: 80px;
+	font-weight: 1000px;
+	color: crimson;
+	position: relative;
+	align-content: center;
+	left: 120px;
+}
+.p-font p2{
+	font-family: "微软雅黑";
+	font-size: 80px;
+	font-weight: 500;
+	color: white;
+	position: relative;
+	align-content: center;
+	left: 120px;
+}
+.login h1{
+    position: relative;
+	text-align: center;
+	color: wheat;
+	font-family: "微软雅黑";
+	font-size: 50px;
+}
+.login form{
+	position: relative;
+	text-align: center;
+	color: wheat;
+	font-family: "微软雅黑";
+	font-size: 20px;
+}
+.login ul{
+	position: relative;
+	text-align: center;
+	color: wheat;
+	font-family: "微软雅黑";
+	font-size: 20px;
+}
+.login li{
+	position: relative;
+	align-items: center;
+}
